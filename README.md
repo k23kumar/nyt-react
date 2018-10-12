@@ -1,1 +1,1 @@
-# nyt-react
+This app utilizes react, node, express, mongo/mongoose to search articles and access links from the New York Times that then can be saved and deleted. 
